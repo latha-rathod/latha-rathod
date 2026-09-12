@@ -1,59 +1,124 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey, I'm Latha 👋
 
-###
+### `CSE Student | Developer in Progress | Professional Bug Negotiator 💀`
 
-<p align="left">My name is latha... and I'm a  Software Developer..., from Inia ....</p>
+I’m Latha — a Computer Science student from Hyderabad, India 🇮🇳  
+currently figuring out how to turn **“I have an idea”** into **“wait... I actually built this.”**
 
-###
+I enjoy learning by doing, breaking things while learning,  
+and then spending an unreasonable amount of time figuring out **why that one semicolon ruined everything.** 😭
 
-<h2 align="left">About me</h2>
+I'm especially interested in **Software Development, Frontend Development, Java, JavaScript, Data Structures & Algorithms, and AI-powered applications.**
 
-###
+My current mission is simple:
 
-<p align="left">Hi there! 👋 I’m latha-rathod, a passionate CSE student from Hyderabad.<br>I’m currently on my journey to become a Software Engineer at Google Hyderabad 🚀<br><br>I love learning about Java, Frontend Development, and Data Structures & Algorithms, and I enjoy creating simple, clean, and creative projects while improving my coding skills every day 🌱<br><br><br>---<br><br>🎯 My Goals<br><br>Master Java, JavaScript, HTML, SQL, and DSA<br><br>Build real-world projects and contribute to open-source<br><br>Join Google Hyderabad as a software engineer 💻<br><br>Grow into a confident and independent tech professional ✨<br><br><br><br>---<br><br>🌱 Currently Learning<br><br>Frontend Development (HTML, CSS, JavaScript)<br><br>React Framework basics ⚛<br><br>Java programming and OOPs concepts ☕<br><br>Data Structures & Algorithms (daily practice)<br><br><br><br>---<br><br>⚡ Fun Fact<br><br>I believe consistency turns dreams into achievements 💪<br>And yes — I debug my life the same way I debug my code 😄</p>
+> **Learn deeply. Build consistently. Get better every day. 🚀**
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🧠 What I'm Learning
 
-###
+- ☕ **Java** — building strong programming fundamentals
+- ⚡ **JavaScript** — making the web less boring
+- ⚛️ **React** — turning ideas into interactive interfaces
+- 🌐 **HTML & CSS** — making things work *and* look good
+- 🧩 **Data Structures & Algorithms** — currently convincing my brain that recursion is not personal
+- 🗄️ **SQL** — learning how to talk to databases without starting a fight
+- 🤖 **AI & AI-powered applications** — exploring how intelligent systems can solve real-world problems
+- 🔧 **Git & GitHub** — learning to collaborate, contribute, and actually keep track of what I break 😭
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
+---
 
-###
+## 💡 What I'm Interested In
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+I'm curious about the intersection of **technology + real-world problems**.
 
-###
+I love exploring:
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+- 💻 Software Engineering
+- 🎨 Frontend & UI/UX
+- 🤖 Artificial Intelligence
+- 🧠 Problem Solving & DSA
+- 🌐 Web Technologies
+- 🌱 Open Source
+- 🚀 Hackathons & Building Ideas
+- 📚 Learning new technologies
 
-###
+I'm not trying to learn every technology that exists.
+
+**I'm trying to understand the ones I use well enough to build something meaningful with them.**
+
+---
+
+## 🎯 My Developer Journey
+
+Right now, I'm somewhere between:
+
+`"I know this"`  
+↓  
+`"Why isn't this working?"`  
+↓  
+`"Let's Google it."`  
+↓  
+`"OH... that's why."`  
+↓  
+`"Don't touch the code. IT WORKS." 💀`
+
+But every bug, every failed attempt, and every new concept is part of the process.
+
+### My goal?
+
+**To become a confident Software Engineer who can think, build, solve problems, and keep learning. 🚀**
+
+---
+
+## 🛠️ My Current Skill Set
+
+**Languages**
+`Java` `JavaScript` `Python`
+
+**Frontend**
+`HTML` `CSS` `React`
+
+**Database**
+`SQL`
+
+**Core**
+`Data Structures & Algorithms` `Problem Solving` `OOP`
+
+**Tools**
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🌱 Currently Improving
+
+> **DSA → Development → Problem Solving → AI → Open Source**
+
+One concept at a time.  
+One bug at a time.  
+One `git push` at a time. 😭
+
+---
+
+## ⚡ A Little About Me
+
+- 🔍 I like understanding **how things work**, not just memorizing them.
+- 🛠️ I learn best when I'm actually building or experimenting.
+- 🧠 I genuinely enjoy problem solving.
+- 🚀 I like turning random ideas into something useful.
+- 📈 I'm focused on becoming better than the version of me from yesterday.
+
+And yes...
+
+> **My code may not be perfect yet.  
+> But at least the bugs are giving me free experience. 💀**
+
+---
+
+### 🤝 Let's Connect
+
+If you're interested in **technology, software development, AI, open source, or just building cool things**,  
+we'll probably have something to talk about.
+
+**Keep learning. Keep building. Keep breaking things responsibly. 🚀**
